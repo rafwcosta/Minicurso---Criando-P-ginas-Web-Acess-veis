@@ -1,0 +1,4 @@
+Figma: https://www.figma.com/design/vz7UM39XwIKA2duofLwQRH/Projeto-WeekIT?node-id=150-1351&p=f&t=pxc5NlVg467oScC5-0
+Extensão axe DevTools: https://chromewebstore.google.com/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd
+Guia WCAG: https://guia-wcag.com
+MDN Web Docs: https://developer.mozilla.org/pt-BR/

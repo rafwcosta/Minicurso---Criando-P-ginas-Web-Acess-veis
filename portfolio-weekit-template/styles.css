@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
+/* Estilo base para o projeto */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --saphire: #1a0d2e;
+  --bangkok: #65538b;
+  --flame: #fc864a;
+  --dahlia: #f4af0f;
+  --oyster: #f8e8cc;
+  --cream: #f4efe6;
+}
+
+html,
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+}
